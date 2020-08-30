@@ -9,9 +9,11 @@ import style from './style';
 const blogs = (props) => {
 	const [data, isLoading] = usePrerenderData(props);
 	return (
-		<article class={style.blogcontainer}>
-			{getBlogBody(data, isLoading)}
-		</article>
+		<section class="text-gray-700 body-font">
+			<div class="container px-5 py-24 mx-auto">
+				{getBlogBody(data, isLoading)}
+			</div>
+		</section>
 	);
 };
 

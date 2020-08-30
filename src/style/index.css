@@ -28,6 +28,10 @@ a {
 	color: #333;
 }
 
+.container {
+	max-width: 1200px;
+}
+
 .loading {
 	animation-duration: 1s;
 	animation-fill-mode: forwards;
