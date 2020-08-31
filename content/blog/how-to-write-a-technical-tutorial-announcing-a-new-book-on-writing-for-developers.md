@@ -12,4 +12,11 @@ Writing technical tutorials is a great way to share your skills, earn some money
 
 There are two important steps to validate your idea. First, as yourself how much information you can fit in a tutorial. You can get a lot done in two thousand words, a hundred lines of code, and maybe a chart or two. The key issue is appropriately scoping your sample application or topic outline to include only relevant information and assume the right level of background knowledge. Right now, you mostly want to make sure that you are within the right order of magnitude. While some publications offer quick tips, writing about the semantics of a single line of code or short snippet might need expanding. On the opposite end of the spectrum, a topic like "Making a Website in Django" would need to be broken down substantially to extract achievable topics for single articles.
 
+```javascript
+var one = 1;
+var two = 2;
+
+var sum = (one+two);
+```
+
 Next, consider your article's audience. What does your ideal reader already know, and why are they coming to your article? These two questions are everything you need to define your audience. Be specific. If you can, model your article's ideal reader off of someone you know from work or school, or at least a role or archetype. Do not be afraid to write for an advanced readership for the right publisher, even if it means your work misses a larger beginner audience. On the flipside, beginner- and intermediate-level articles are often in high demand.
