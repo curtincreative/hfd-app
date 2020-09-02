@@ -2,8 +2,7 @@
 title: How to Write a Technical Tutorial - Announcing a New Book on Writing for
   Developers
 date: 2020-08-22T02:52:06.690Z
-subtitle: You have a great idea for a technical tutorial, even if you do not
-  know it yet. If you have a topic or title in mind, fantastic!
+subtitle: Writing things people will want to read!
 cover: /assets/yancy-min-842ofhc6mai-unsplash.jpg
 tags: blog
 ---
